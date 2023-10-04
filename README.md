@@ -39,12 +39,27 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 </div>
-## 🌐 Social Accounts:
-<div align="center"> 
- 
 
+🌐 Social Accounts:
+ <div align="center"> 
 
+ <br>
+
+<a href="" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="45" alt="linkedin logo"  />
+</a>
+
+<a href="https://instagram.com/baha_dages" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="45" alt="instagram logo"  />
+</a>
+
+<a href="mailto:bahromhamidov14@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45"width="45" alt="gmail logo"  />
+<a href="https://t.me/baha_dages" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="45"width="45" alt="telegram logo"  />
+</a>
 </div>
+
 
 
 
