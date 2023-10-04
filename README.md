@@ -45,7 +45,7 @@
 
  <br>
 
-<a href="" target="_blank">
+<a href="https://www.linkedin.com/in/bahrom-hamidov-a5218223b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="45" alt="linkedin logo"  />
 </a>
 
